@@ -32,4 +32,4 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact)](https://github.com/Marcelo-A-O-S/Marcelo-A-O-S)
