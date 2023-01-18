@@ -10,7 +10,7 @@
 
 
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark)
+![Marcelo GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark)
 
 
 
@@ -34,4 +34,4 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact)](https://github.com/Marcelo-A-O-S/Marcelo-A-O-S)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact)](https://github.com/Marcelo-A-O-S/Marcelo-A-O-S)
