@@ -44,7 +44,7 @@
 </div>
 <hr/>
 
-<div style="display: inline_block">
+<div style="display: inline_block, width:100%">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark"/>
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact"/>
 </div>
