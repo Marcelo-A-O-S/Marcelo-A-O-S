@@ -7,14 +7,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Telo_Augusto_O)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100042692251604)
 
-
-
-
-![Marcelo GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark)
-
-
-
-
 ## Tecnologias que uso no dia a dia
 
 ### Algumas das tecnologias que utilizo ou já utilizei e fazem parte do meu ambiente de estudos.
@@ -50,9 +42,11 @@
 <div style="display: inline_block">
   <img alignm="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+<hr/>
 
+<div style="display: flex">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark"/>
 
-<br/>
-<br/>
+</div>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact)](https://github.com/Marcelo-A-O-S/Marcelo-A-O-S)
