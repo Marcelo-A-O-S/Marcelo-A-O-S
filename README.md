@@ -27,13 +27,7 @@
  <img alignm="center" alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <div>
 
- - ### Banco de dados
- <div style="display: inline_block">
-   <img alignm="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-   <img alignm="center" alt="My Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- <div>
-
- - ### Frameworks e outras ferramentas
+  - ### Frameworks e outras ferramentas
 <div style="display: inline_block">
  <img alignm="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img alignm="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,6 +39,16 @@
  <img alignm="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <div>
 
+ - ### Banco de dados
+ <div style="display: inline_block">
+   <img alignm="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+   <img alignm="center" alt="My Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <div>
+
+- ### Ferramentas de Design
+<div style="display: inline_block">
+  <img alignm="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
 
 
 <br/>
