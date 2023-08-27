@@ -46,7 +46,3 @@
 <div style="display: inline_block">
   <img alignm="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-<hr/>
-
-
-
