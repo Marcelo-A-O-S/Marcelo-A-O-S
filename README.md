@@ -18,7 +18,7 @@
 ## Tecnologias que uso no dia a dia
 
 ### Algumas das tecnologias que utilizo, já utilizei e fazem parte do meu ambiente de estudos.
-## Linguagens 
+ - ### Linguagens 
 <div style="display:inline_block">
   <img alignm="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alignm="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,13 +27,13 @@
  <img alignm="center" alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <div>
 
- ## Banco de dados
+ - ### Banco de dados
  <div style="display: inline_block">
    <img alignm="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
    <img alignm="center" alt="My Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <div>
 
- ## Frameworks e outras ferramentas
+ - ### Frameworks e outras ferramentas
 <div style="display: inline_block">
  <img alignm="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img alignm="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
