@@ -10,10 +10,11 @@
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark"/>
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact"/>
 </div>
+<div>
+ <h2>Tecnologias que uso no dia a dia</h2>
+ <h3>Algumas das tecnologias que utilizo ou já utilizei e fazem parte do meu ambiente de estudos.</h3>
+</div>
 
-## Tecnologias que uso no dia a dia
-
-### Algumas das tecnologias que utilizo ou já utilizei e fazem parte do meu ambiente de estudos.
  - ### Linguagens 
 <div style="display:inline_block">
   <img alignm="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
