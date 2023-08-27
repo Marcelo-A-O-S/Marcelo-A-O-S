@@ -33,7 +33,7 @@
    <img alignm="center" alt="My Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <div>
 
- ## Frameworks entre outras ferramentas
+ ## Frameworks e outras ferramentas
 <div style="display: inline_block">
  <img alignm="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img alignm="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
