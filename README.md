@@ -32,7 +32,7 @@
 ## 🛠️ Tecnologias que uso no dia a dia
 
 ### 🔹 Linguagens
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -42,7 +42,7 @@
 </p>
 
 ### 🔹 Frameworks & Ferramentas
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -57,13 +57,13 @@
 </p>
 
 ### 🔹 Banco de Dados
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🔹 Ferramentas de Design
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
@@ -71,4 +71,7 @@
 
 ✨ Obrigado por visitar meu perfil!  
 📬 Se quiser trocar uma ideia, me chama no **LinkedIn** ou **Instagram** 😉
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Marcelo-A-O-S&label=views&color=grey&style=for-the-badge"/>
+</p>
 
