@@ -23,8 +23,8 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcelo-A-O-S&langs_count=6&layout=compact&theme=dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcelo-A-O-S&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-A-O-S&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas"/>
 </p>
 
 ---
