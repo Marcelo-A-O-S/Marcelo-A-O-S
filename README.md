@@ -1,4 +1,4 @@
-<img src="./assets/welcome-to-my-profile.png" width="100%" alt="">
+<img src="./assets/welcome-to-my-profile.png" width="100%" alt="Welcome to my profile">
 
 # Marcelo Augusto
 ### Full Stack Developer | C# · .NET · TypeScript · Next.js
